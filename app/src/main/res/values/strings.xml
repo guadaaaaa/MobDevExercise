@@ -25,4 +25,6 @@
     <string name="plus">+</string>
     <string name="equals">=</string>
 
+    <string name="placeholder">0</string>
+
 </resources>
